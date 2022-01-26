@@ -1,5 +1,5 @@
 ##
-## Adobe® Creative Cloud Service Endpoints block list.
+## AdobeÂ® Creative Cloud Service Endpoints block list.
 ##
 ## This is an official list of various network endpoints for Creative Cloud (last updated in August 2017)
 ##
@@ -10,6 +10,8 @@
 ## Use on your own risk. No warranties implied.
 ## 
 
+## u/EnglandPJ suggestion. 
+hbrt.adobe.com
 
 ## BROWSER-BASED SERVICES 
 ## (More specific domains are way below)
