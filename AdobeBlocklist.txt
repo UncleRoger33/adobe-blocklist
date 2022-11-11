@@ -12,6 +12,9 @@
 
 ## u/EnglandPJ suggestion. 
 hbrt.adobe.com
+auth.services.adobe.com
+notify.adobe.io
+cdn.experienceleague.adobe.com
 
 ## BROWSER-BASED SERVICES 
 ## (More specific domains are way below)
