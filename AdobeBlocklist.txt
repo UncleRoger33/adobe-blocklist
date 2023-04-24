@@ -303,7 +303,6 @@ www-prod.adobesunbreak.com
 #
 ccmdls.adobe.com
 ccmdl.adobe.com
-*.oobesaas.adobe.com
 swupmf.adobe.com
 swupdl.adobe.com
 prod.acp.adobeoobe.com
