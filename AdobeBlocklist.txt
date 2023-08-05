@@ -246,7 +246,7 @@ api.adobe.io
 # Applies to Audition CC, Dreamweaver CC, Edge Animate CC, Flash Professional CC, Illustrator CC, InCopy CC, InDesign CC, 
 # Lightroom, Muse CC, Photoshop CC, Prelude CC, Premiere Pro CC 
 #
-www.adobeexchange.com/api
+www.adobeexchange.com
 
 
 # Service type: Licensing
@@ -312,7 +312,7 @@ exception.licenses.adobe.com
 cs.licenses.adobe.com
 s3.amazonaws.com
 ffc-icons.oobesaas.adobe.com
-cdn-ffc.oobesaas.adobe.com/*
+cdn-ffc.oobesaas.adobe.com
 acc.adobeoobe.com
 
 
