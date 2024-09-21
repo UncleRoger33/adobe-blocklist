@@ -310,7 +310,7 @@ oobe.adobe.com
 lm.licenses.adobe.com 
 exception.licenses.adobe.com 
 cs.licenses.adobe.com
-s3.amazonaws.com
+# s3*.amazonaws.com # BE CAREFUL
 ffc-icons.oobesaas.adobe.com
 cdn-ffc.oobesaas.adobe.com
 acc.adobeoobe.com
